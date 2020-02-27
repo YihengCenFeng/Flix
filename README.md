@@ -1,4 +1,6 @@
-## Flix Part 2
+# Flix
+
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).## Flix Part 2
 
 ### User Stories
 
@@ -14,10 +16,6 @@
 
 <img src="http://g.recordit.co/wVMJMbgT0N.gif" width=250><br>
 
-
-# Flix
-
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flix Part 1
 
